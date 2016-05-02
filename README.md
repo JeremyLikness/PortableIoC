@@ -2,7 +2,7 @@
 Portable IOC is a tiny thread-safe Inversion of Control container for
 Universal Windows Platform apps.
 
-Portable IOC is a tiny (less than 200 lines of code) thread-safe and portable Inversion of Control container. It is designed to make it simple and easy to wire dependencies for client projects include various versions of the Windows Phone, the new Windows 8 Store apps, Silverlight, and will support the desktop as well. Features include:
+Portable IOC is a tiny (less than 200 lines of code) thread-safe and portable Inversion of Control container. It is designed to make it simple and easy to wire dependencies for client projects on the Universal Windows Platform (UWP). Features include:
 
 * Dependency resolution
 * Lifetime management (shared and non-shared copies) 
